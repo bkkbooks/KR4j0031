@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4j0031/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 孏窟詞
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:47:50.554263'
+  source:
+    repository: kanripo
+    path: KR4j0031/KR4j0031_000.txt
+hash: sha256:f1364242b5676c9f8a65140d93a6ede216526e7ae46e5f3d77b187c25b57321e

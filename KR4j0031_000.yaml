@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4j0031/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 孏窟詞
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:47:50.554263'
+  source:
+    repository: kanripo
+    path: KR4j0031/KR4j0031_000.txt
+hash: sha256:886a715ed81239555c1459d8284acf855690a55be70465297e4ded117b7622c7

@@ -1,0 +1,41 @@
+canonical_identifier: bkk:krp/KR4j0031/v1
+canonical_location: https://kanripo.org/bkk/KR4j0031/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 孏窟詞
+  date: '2015-08-25 00:47:50.554263'
+  source:
+    repository: kanripo
+    path: KR4j0031
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0031_000.yaml, hash: 'sha256:886a715ed81239555c1459d8284acf855690a55be70465297e4ded117b7622c7'}
+  - {seq: 1, filename: KR4j0031_001.yaml, hash: 'sha256:bbb2ea404efe19b644763508b2f9f41dace4d95209fe2e1e7f90208e0db47764'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4j0031_001.markers.yaml, hash: 'sha256:56aace1ced86edc5e01a394342a01103e0b35548c7d5f78659407aea83d330cd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4j0031_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 6699
+  label: 孏窟詞
+  type: section
+  level: 1
+hash: sha256:31fc6bc73302fa799c5e4b7397a91f56b2c4f7c820cf4d5d829fe0c8b695422a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

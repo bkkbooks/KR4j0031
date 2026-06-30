@@ -1,0 +1,35 @@
+canonical_identifier: bkk:krp/KR4j0031/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4j0031/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 孏窟詞
+  date: '2015-08-25 00:47:50.554263'
+  source:
+    repository: kanripo
+    path: KR4j0031
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0031_000-WYG.yaml, hash: 'sha256:f1364242b5676c9f8a65140d93a6ede216526e7ae46e5f3d77b187c25b57321e'}
+  - {seq: 1, filename: KR4j0031_001-WYG.yaml, hash: 'sha256:4e3a4508f30a19d186fd74c61e0c20827957e028166099366b0dbca1d286e4a8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4j0031_001-WYG.markers.yaml, hash: 'sha256:c870bdd91f18dd1cf23bf681fe75288bd570ff34bae61ffe25873b8799d606e0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4j0031_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 6699
+  label: 孏窟詞
+  type: section
+  level: 1
+hash: sha256:93d8f82742324db550029bf6d9d37f3f028cbcef5d66a6403733a995fad2f90e
